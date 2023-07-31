@@ -1,0 +1,10 @@
+input,
+textarea{
+  padding-left: 5rem;
+  padding-right: 5;
+  padding: 1%;
+  outline-color: blue;
+  columns: width 1px;
+  column-gap: 5cm;
+  border-block-color: red;
+}

@@ -1,0 +1,34 @@
+.App{
+    font-family: 'Times New Roman', Times, serif;
+    font-style:oblique;
+    text-align:center;
+    color: rgb(199, 23, 23);
+}
+.img1{
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+.img2{
+
+     float: right;
+  width: 100%;
+  height: 100%;
+}
+.img3{
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+.img4{
+    float: right;
+    width: 100%;
+    height: 100%;
+}
+.d
+{
+  outline-color: blue;
+  columns: width 1px;
+  column-gap: 5cm;
+  border-block-color: red;
+}
